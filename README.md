@@ -5,16 +5,11 @@ Codes utilized for solving Traveling Salesman Problem (TSP), Asymmetric TSP (ATS
 ## 📁 Repository Structure
 
 ```
-ic/
-├── ASSIGNMENT SCRIPTS/     # GAP and Assignment Problem solvers
-├── TSP SCRIPTS/           # TSP and ATSP solvers
-├── INSTANCES/             # Problem instance files
-├── dat/                   # AMPL data files
-├── models/                # AMPL model files
-├── results/               # Solver results and benchmarks
-├── results_backup/        # Historical results archive
-├── deprecated/            # Legacy code (not maintained)
-└── README.md             # This file
+src/
+├── assign/               # GAP and Assignment Problem solvers
+├── tsp/                  # TSP and ATSP solvers
+├── analysis/             # Statistics from outputs
+└── parsers/              # Instance converters
 ```
 
 ## 🎯 Problem Types
