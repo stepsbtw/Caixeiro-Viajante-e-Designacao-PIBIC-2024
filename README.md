@@ -211,7 +211,7 @@ results/
 }
 ```
 
-## 🔬 Algorithms Implemented
+## Algorithms Implemented
 
 ### TSP/ATSP:
 - **Exact**: MTZ formulation, DFJ formulation, Branch-and-cut
@@ -272,15 +272,7 @@ Standard TSP benchmark instances from [TSPLIB](http://comopt.ifi.uni-heidelberg.
 ### OR-Library:
 GAP and Assignment instances from [Beasley's OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html)
 
-## 📚 References
-
-### Papers/Methods:
-- Christofides algorithm for TSP
-- Lin-Kernighan heuristic
-- MTZ and DFJ formulations
-- Hungarian algorithm for assignment
-
-### Dependencies:
+## Dependencies:
 - [OR-Tools](https://developers.google.com/optimization) - Google's optimization toolkit
 - [AMPL](https://ampl.com/) - Mathematical programming language
 - [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) - TSP instances
