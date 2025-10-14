@@ -1,0 +1,121 @@
+[
+  {
+    "instance": "burma14.dat",
+    "cost": 3968.0,
+    "runtime": 0.00021076202392578125,
+    "method": "fallback_2opt",
+    "improvements": 3
+  },
+  {
+    "instance": "ulysses16.dat",
+    "cost": 7497.0,
+    "runtime": 0.0008714199066162109,
+    "method": "fallback_2opt",
+    "improvements": 14
+  },
+  {
+    "instance": "gr17.dat",
+    "cost": 2085.0,
+    "runtime": 0.0006186962127685547,
+    "method": "fallback_2opt",
+    "improvements": 4
+  },
+  {
+    "instance": "gr21.dat",
+    "cost": 2998.0,
+    "runtime": 0.0005500316619873047,
+    "method": "fallback_2opt",
+    "improvements": 5
+  },
+  {
+    "instance": "ulysses22.dat",
+    "cost": 7683.0,
+    "runtime": 0.0013425350189208984,
+    "method": "fallback_2opt",
+    "improvements": 7
+  },
+  {
+    "instance": "gr24.dat",
+    "cost": 1391.0,
+    "runtime": 0.0013327598571777344,
+    "method": "fallback_2opt",
+    "improvements": 7
+  },
+  {
+    "instance": "fri26.dat",
+    "cost": 1009.0,
+    "runtime": 0.0019385814666748047,
+    "method": "fallback_2opt",
+    "improvements": 7
+  },
+  {
+    "instance": "bayg29.dat",
+    "cost": 1740.0,
+    "runtime": 0.0028662681579589844,
+    "method": "fallback_2opt",
+    "improvements": 12
+  },
+  {
+    "instance": "bays29.dat",
+    "cost": 2064.0,
+    "runtime": 0.00322723388671875,
+    "method": "fallback_2opt",
+    "improvements": 7
+  },
+  {
+    "instance": "swiss42.dat",
+    "cost": 1369.0,
+    "runtime": 0.007637977600097656,
+    "method": "fallback_2opt",
+    "improvements": 13
+  },
+  {
+    "instance": "gr48.dat",
+    "cost": 5356.0,
+    "runtime": 0.010735273361206055,
+    "method": "fallback_2opt",
+    "improvements": 18
+  },
+  {
+    "instance": "hk48.dat",
+    "cost": 12163.0,
+    "runtime": 0.0040454864501953125,
+    "method": "fallback_2opt",
+    "improvements": 8
+  },
+  {
+    "instance": "eil51.dat",
+    "cost": 454.0,
+    "runtime": 0.013208150863647461,
+    "method": "fallback_2opt",
+    "improvements": 12
+  },
+  {
+    "instance": "berlin52.dat",
+    "cost": 8385.0,
+    "runtime": 0.010000944137573242,
+    "method": "fallback_2opt",
+    "improvements": 9
+  },
+  {
+    "instance": "eil76.dat",
+    "cost": 561.0,
+    "runtime": 0.032193660736083984,
+    "method": "fallback_2opt",
+    "improvements": 19
+  },
+  {
+    "instance": "rat99.dat",
+    "cost": 1418.0,
+    "runtime": 0.12003874778747559,
+    "method": "fallback_2opt",
+    "improvements": 24
+  },
+  {
+    "instance": "rd100.dat",
+    "cost": 8863.0,
+    "runtime": 0.10724329948425293,
+    "method": "fallback_2opt",
+    "improvements": 25
+  }
+]

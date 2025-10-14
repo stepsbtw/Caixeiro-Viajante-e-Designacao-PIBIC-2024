@@ -1,0 +1,121 @@
+[
+  {
+    "instance": "burma14.dat",
+    "cost": 3657.0,
+    "runtime": 0.0040891170501708984,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "ulysses16.dat",
+    "cost": 6978.0,
+    "runtime": 0.005029201507568359,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "gr17.dat",
+    "cost": 2197.0,
+    "runtime": 0.005369424819946289,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "gr21.dat",
+    "cost": 3092.0,
+    "runtime": 0.005846500396728516,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "ulysses22.dat",
+    "cost": 7356.0,
+    "runtime": 0.0074920654296875,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "gr24.dat",
+    "cost": 1455.0,
+    "runtime": 0.008628129959106445,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "fri26.dat",
+    "cost": 1043.0,
+    "runtime": 0.015016794204711914,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "bayg29.dat",
+    "cost": 1716.0,
+    "runtime": 0.012039661407470703,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "bays29.dat",
+    "cost": 2155.0,
+    "runtime": 0.014426946640014648,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "swiss42.dat",
+    "cost": 1393.0,
+    "runtime": 0.02076554298400879,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "gr48.dat",
+    "cost": 5753.0,
+    "runtime": 0.03733515739440918,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "hk48.dat",
+    "cost": 12896.0,
+    "runtime": 0.029520511627197266,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "eil51.dat",
+    "cost": 462.0,
+    "runtime": 0.02905130386352539,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "berlin52.dat",
+    "cost": 8560.0,
+    "runtime": 0.03412032127380371,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "eil76.dat",
+    "cost": 608.0,
+    "runtime": 0.09006881713867188,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "rat99.dat",
+    "cost": 1393.0,
+    "runtime": 0.1400303840637207,
+    "method": "christofides",
+    "improvements": 0
+  },
+  {
+    "instance": "rd100.dat",
+    "cost": 8906.0,
+    "runtime": 0.23360681533813477,
+    "method": "christofides",
+    "improvements": 0
+  }
+]

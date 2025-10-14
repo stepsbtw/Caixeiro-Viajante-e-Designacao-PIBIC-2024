@@ -1,0 +1,42 @@
+[
+  {
+    "solver": "cplex",
+    "instance": "att48.dat",
+    "objective": 10628.0,
+    "wall_time": 316.79514241218567,
+    "solve_result": "solved",
+    "solve_result_num": 0,
+    "status": "success",
+    "run": 1
+  },
+  {
+    "solver": "cplex",
+    "instance": "bayg29.dat",
+    "objective": 1610.0,
+    "wall_time": 0.9346742630004883,
+    "solve_result": "solved",
+    "solve_result_num": 0,
+    "status": "success",
+    "run": 1
+  },
+  {
+    "solver": "cplex",
+    "instance": "bays29.dat",
+    "objective": 2020.0,
+    "wall_time": 0.8980319499969482,
+    "solve_result": "solved",
+    "solve_result_num": 0,
+    "status": "success",
+    "run": 1
+  },
+  {
+    "solver": "cplex",
+    "instance": "berlin52.dat",
+    "objective": 7542.0,
+    "wall_time": 4.056504964828491,
+    "solve_result": "solved",
+    "solve_result_num": 0,
+    "status": "success",
+    "run": 1
+  }
+]

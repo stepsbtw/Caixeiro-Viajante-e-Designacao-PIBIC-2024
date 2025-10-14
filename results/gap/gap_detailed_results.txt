@@ -1,0 +1,1299 @@
+GAP AMPL SOLVER BENCHMARK - DETAILED RESULTS
+============================================================
+
+
+Instance: a05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1698.0, Time=0.149s [2025-09-18 19:44:20]
+
+Instance: a05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1698.0, Time=0.201s [2025-09-18 19:44:21]
+
+Instance: a05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1698.0, Time=0.200s [2025-09-18 19:44:22]
+
+Instance: a05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1698.0, Time=0.136s [2025-09-18 19:44:23]
+
+Instance: a05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1698.0, Time=0.195s [2025-09-18 19:44:24]
+
+Instance: a05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1698.0, Time=0.150s [2025-09-18 19:44:24]
+
+Instance: e05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=12681.0, Time=0.768s [2025-09-18 19:44:26]
+
+Instance: e05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=12681.0, Time=1.540s [2025-09-18 19:44:28]
+
+Instance: e05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=12680.999999999982, Time=0.739s [2025-09-18 19:44:29]
+
+Instance: e05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=12682.0, Time=18.933s [2025-09-18 19:44:49]
+
+Instance: e05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=12681.000000000004, Time=20.567s [2025-09-18 19:45:10]
+
+Instance: e05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=12681.0, Time=55.554s [2025-09-18 19:46:06]
+
+Instance: c05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1931.0, Time=0.188s [2025-09-18 19:46:06]
+
+Instance: c05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1931.0, Time=0.224s [2025-09-18 19:46:07]
+
+Instance: c05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1931.0, Time=0.279s [2025-09-18 19:46:08]
+
+Instance: c05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1930.9999999999866, Time=1.902s [2025-09-18 19:46:10]
+
+Instance: c05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1931.0, Time=1.347s [2025-09-18 19:46:12]
+
+Instance: c05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1931.0, Time=4.560s [2025-09-18 19:46:17]
+
+Instance: d05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=6353.0, Time=19.174s [2025-09-18 19:46:37]
+
+Instance: d05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=6352.999999999999, Time=32.831s [2025-09-18 19:47:11]
+
+Instance: d05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=6353.0, Time=5.747s [2025-09-18 19:47:17]
+
+Instance: d05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=6356.999999999996, Time=100.776s [2025-09-18 19:48:58]
+
+Instance: d05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=6364.0, Time=100.148s [2025-09-18 19:50:39]
+
+Instance: d05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.022s [2025-09-18 19:52:21]
+
+Instance: b05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1843.0, Time=0.361s [2025-09-18 19:52:22]
+
+Instance: b05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1843.0, Time=0.334s [2025-09-18 19:52:23]
+
+Instance: b05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1843.0, Time=0.440s [2025-09-18 19:52:24]
+
+Instance: b05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1842.999999999999, Time=2.926s [2025-09-18 19:52:27]
+
+Instance: b05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1843.0, Time=6.680s [2025-09-18 19:52:34]
+
+Instance: b05100.dat (500 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1843.0, Time=1.587s [2025-09-18 19:52:36]
+
+Instance: c10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1402.0, Time=0.520s [2025-09-18 19:52:37]
+
+Instance: c10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1401.9999999999995, Time=0.509s [2025-09-18 19:52:38]
+
+Instance: c10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1401.999999999999, Time=0.841s [2025-09-18 19:52:40]
+
+Instance: c10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1402.0000000002278, Time=9.742s [2025-09-18 19:52:50]
+
+Instance: c10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1402.0, Time=6.672s [2025-09-18 19:52:57]
+
+Instance: c10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1402.0, Time=49.499s [2025-09-18 19:53:49]
+
+Instance: e05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=24930.0, Time=0.462s [2025-09-18 19:53:50]
+
+Instance: e05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=24930.0, Time=0.270s [2025-09-18 19:53:51]
+
+Instance: e05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=24931.000000000004, Time=0.943s [2025-09-18 19:53:52]
+
+Instance: e05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=24931.0, Time=11.499s [2025-09-18 19:54:04]
+
+Instance: e05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=24930.0, Time=11.535s [2025-09-18 19:54:16]
+
+Instance: e05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=24930.0, Time=9.062s [2025-09-18 19:54:26]
+
+Instance: c05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=3456.0, Time=0.494s [2025-09-18 19:54:27]
+
+Instance: c05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=3456.0, Time=0.782s [2025-09-18 19:54:28]
+
+Instance: c05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=3456.0000000000005, Time=0.825s [2025-09-18 19:54:30]
+
+Instance: c05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=3456.0, Time=5.385s [2025-09-18 19:54:35]
+
+Instance: c05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=3456.0, Time=3.240s [2025-09-18 19:54:39]
+
+Instance: c05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=3456.0, Time=23.196s [2025-09-18 19:55:03]
+
+Instance: a05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=3235.0, Time=0.068s [2025-09-18 19:55:04]
+
+Instance: a05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=3235.0, Time=0.105s [2025-09-18 19:55:04]
+
+Instance: a05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=3235.0, Time=0.088s [2025-09-18 19:55:05]
+
+Instance: a05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=3235.0, Time=0.093s [2025-09-18 19:55:05]
+
+Instance: a05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=3235.0, Time=0.105s [2025-09-18 19:55:06]
+
+Instance: a05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=3235.0, Time=0.085s [2025-09-18 19:55:07]
+
+Instance: e10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=11577.0, Time=3.740s [2025-09-18 19:55:11]
+
+Instance: e10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=11577.000000000071, Time=4.330s [2025-09-18 19:55:16]
+
+Instance: e10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=11577.000000000024, Time=3.424s [2025-09-18 19:55:20]
+
+Instance: e10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=11576.99999999993, Time=50.619s [2025-09-18 19:56:11]
+
+Instance: e10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.091s [2025-09-18 19:57:53]
+
+Instance: e10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.126s [2025-09-18 19:59:35]
+
+Instance: d05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=limit, Obj=12744.0, Time=100.293s [2025-09-18 20:01:16]
+
+Instance: d05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.099s [2025-09-18 20:07:46]
+
+Instance: b05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=3552.0, Time=0.549s [2025-09-18 20:22:15]
+
+Instance: b05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=3552.0, Time=0.771s [2025-09-18 20:22:17]
+
+Instance: b05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=3552.0, Time=0.992s [2025-09-18 20:22:18]
+
+Instance: b05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=3552.0000000001505, Time=10.258s [2025-09-18 20:22:29]
+
+Instance: b05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=3552.0, Time=15.083s [2025-09-18 20:22:45]
+
+Instance: b05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=3552.0, Time=21.100s [2025-09-18 20:23:06]
+
+Instance: d05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=limit, Obj=12745.999999999996, Time=100.988s [2025-09-18 20:24:48]
+
+Instance: d05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=TIMEOUT, Obj=12747.999999999998, Time=100.000s [2025-09-18 20:26:30]
+
+Instance: d05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=12755.0, Time=100.272s [2025-09-18 20:28:10]
+
+Instance: d05200.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.104s [2025-09-18 20:29:53]
+
+Instance: a10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1360.0, Time=0.072s [2025-09-18 20:29:53]
+
+Instance: a10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1360.0, Time=0.119s [2025-09-18 20:29:54]
+
+Instance: a10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1360.0, Time=0.117s [2025-09-18 20:29:54]
+
+Instance: a10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1360.0, Time=0.093s [2025-09-18 20:29:55]
+
+Instance: a10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1360.0, Time=0.105s [2025-09-18 20:29:56]
+
+Instance: a10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1360.0, Time=0.139s [2025-09-18 20:29:56]
+
+Instance: b10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1407.0, Time=0.128s [2025-09-18 20:29:57]
+
+Instance: b10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1407.0, Time=0.181s [2025-09-18 20:29:58]
+
+Instance: b10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1407.0, Time=0.151s [2025-09-18 20:29:58]
+
+Instance: b10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1407.0, Time=0.423s [2025-09-18 20:29:59]
+
+Instance: b10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1407.0, Time=1.184s [2025-09-18 20:30:01]
+
+Instance: b10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1407.0, Time=0.509s [2025-09-18 20:30:02]
+
+Instance: d10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=limit, Obj=6353.0, Time=100.981s [2025-09-18 20:31:44]
+
+Instance: d10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.116s [2025-09-19 03:16:15]
+
+Instance: d10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=limit, Obj=6363.0, Time=100.849s [2025-09-19 03:17:56]
+
+Instance: d10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=6363.000000000002, Time=100.908s [2025-09-19 03:19:38]
+
+Instance: d10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=6385.0, Time=100.351s [2025-09-19 03:21:19]
+
+Instance: d10100.dat (1000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.112s [2025-09-19 03:23:01]
+
+Instance: a10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=2623.0, Time=0.195s [2025-09-19 03:23:02]
+
+Instance: a10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=2623.0, Time=0.113s [2025-09-19 03:23:02]
+
+Instance: a10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=2623.0, Time=0.108s [2025-09-19 03:23:03]
+
+Instance: a10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=2623.0, Time=0.119s [2025-09-19 03:23:04]
+
+Instance: a10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=2623.0, Time=0.157s [2025-09-19 03:23:04]
+
+Instance: a10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=2623.0, Time=0.098s [2025-09-19 03:23:05]
+
+Instance: b10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=2827.0, Time=1.473s [2025-09-19 03:23:07]
+
+Instance: b10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=2827.0, Time=2.304s [2025-09-19 03:23:10]
+
+Instance: b10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=2827.0000000000045, Time=1.783s [2025-09-19 03:23:12]
+
+Instance: b10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=2826.999999999989, Time=30.469s [2025-09-19 03:23:43]
+
+Instance: b10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=2827.000000000001, Time=32.021s [2025-09-19 03:24:16]
+
+Instance: b10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.039s [2025-09-19 03:25:58]
+
+Instance: c10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=2806.0, Time=1.530s [2025-09-19 03:26:00]
+
+Instance: c10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=2806.0, Time=1.855s [2025-09-19 03:26:02]
+
+Instance: c10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=2806.0, Time=1.566s [2025-09-19 03:26:04]
+
+Instance: c10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=2806.000000000017, Time=27.040s [2025-09-19 03:26:32]
+
+Instance: c10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=2805.9999999999986, Time=16.510s [2025-09-19 03:26:49]
+
+Instance: c10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.124s [2025-09-19 03:28:31]
+
+Instance: d10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=limit, Obj=12441.0, Time=100.335s [2025-09-19 03:30:13]
+
+Instance: d10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=limit, Obj=12443.0, Time=100.313s [2025-09-19 03:31:54]
+
+Instance: d10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=TIMEOUT, Obj=12440.000000000007, Time=100.000s [2025-09-19 03:33:36]
+
+Instance: d10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=12451.000000000002, Time=100.104s [2025-09-19 03:35:16]
+
+Instance: d10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=12464.0, Time=100.234s [2025-09-19 03:36:57]
+
+Instance: d10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.122s [2025-09-19 03:38:39]
+
+Instance: e10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=23307.0, Time=8.412s [2025-09-19 03:38:49]
+
+Instance: e10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=23307.0, Time=5.019s [2025-09-19 03:38:54]
+
+Instance: e10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=23306.999999999993, Time=10.914s [2025-09-19 03:39:06]
+
+Instance: e10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=23307.999999999996, Time=57.016s [2025-09-19 03:40:03]
+
+Instance: e10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=23307.0, Time=50.189s [2025-09-19 03:40:54]
+
+Instance: e10200.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.085s [2025-09-19 03:42:36]
+
+Instance: c10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=5597.0, Time=1.461s [2025-09-19 03:42:38]
+
+Instance: c10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=5597.0, Time=1.291s [2025-09-19 03:42:40]
+
+Instance: c10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=5597.0, Time=2.363s [2025-09-19 03:42:43]
+
+Instance: c10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=5597.0, Time=17.684s [2025-09-19 03:43:01]
+
+Instance: c10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=5597.0, Time=9.444s [2025-09-19 03:43:11]
+
+Instance: c10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=5614.0, Time=100.778s [2025-09-19 03:44:52]
+
+Instance: d10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=limit, Obj=24971.0, Time=100.136s [2025-09-19 03:46:33]
+
+Instance: d10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=limit, Obj=24976.00000000023, Time=100.963s [2025-09-19 03:48:14]
+
+Instance: d10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=limit, Obj=24982.0, Time=100.428s [2025-09-19 03:49:55]
+
+Instance: d10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=24997.000000000004, Time=100.176s [2025-09-19 03:51:36]
+
+Instance: d10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=25012.0, Time=100.979s [2025-09-19 03:53:18]
+
+Instance: d10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=25105.0, Time=100.670s [2025-09-19 03:54:59]
+
+Instance: e10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=45748.0, Time=5.879s [2025-09-19 03:55:05]
+
+Instance: e10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=45748.0, Time=3.304s [2025-09-19 03:55:09]
+
+Instance: e10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=45746.00000000004, Time=4.588s [2025-09-19 03:55:14]
+
+Instance: e10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=45748.999999999985, Time=20.745s [2025-09-19 03:55:36]
+
+Instance: e10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=45746.0, Time=61.705s [2025-09-19 03:56:38]
+
+Instance: e10400.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.104s [2025-09-19 03:58:20]
+
+Instance: a20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1158.0, Time=0.103s [2025-09-19 03:58:21]
+
+Instance: a20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1158.0, Time=0.109s [2025-09-19 03:58:22]
+
+Instance: a20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1158.0, Time=0.100s [2025-09-19 03:58:23]
+
+Instance: a20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1158.0, Time=0.196s [2025-09-19 03:58:23]
+
+Instance: a20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1158.0, Time=0.162s [2025-09-19 03:58:24]
+
+Instance: a20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1158.0, Time=0.115s [2025-09-19 03:58:25]
+
+Instance: b20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1166.0, Time=0.239s [2025-09-19 03:58:25]
+
+Instance: b20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1166.0, Time=0.251s [2025-09-19 03:58:26]
+
+Instance: b20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1166.0, Time=0.248s [2025-09-19 03:58:27]
+
+Instance: b20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1166.0, Time=0.670s [2025-09-19 03:58:28]
+
+Instance: b20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1166.0, Time=0.470s [2025-09-19 03:58:29]
+
+Instance: b20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1166.0, Time=0.825s [2025-09-19 03:58:31]
+
+Instance: c20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=1243.0, Time=0.761s [2025-09-19 03:58:32]
+
+Instance: c20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=1243.0, Time=0.485s [2025-09-19 03:58:33]
+
+Instance: c20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=1243.0000000000002, Time=0.679s [2025-09-19 03:58:34]
+
+Instance: c20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=1243.0, Time=5.301s [2025-09-19 03:58:40]
+
+Instance: c20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=1243.0, Time=2.745s [2025-09-19 03:58:43]
+
+Instance: c20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=1243.0, Time=98.687s [2025-09-19 04:00:22]
+
+Instance: d20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=limit, Obj=6224.0, Time=100.167s [2025-09-19 04:02:03]
+
+Instance: d20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=TIMEOUT, Obj=6244.0, Time=100.000s [2025-09-19 04:03:45]
+
+Instance: d20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=limit, Obj=6222.9999999999945, Time=100.214s [2025-09-19 04:05:25]
+
+Instance: d20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=6250.00000000001, Time=100.101s [2025-09-19 04:07:06]
+
+Instance: d20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=6297.0, Time=100.954s [2025-09-19 04:08:48]
+
+Instance: d20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=7054.0, Time=100.634s [2025-09-19 04:10:29]
+
+Instance: e20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=8436.0, Time=12.949s [2025-09-19 04:10:42]
+
+Instance: e20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=8436.0, Time=13.982s [2025-09-19 04:10:57]
+
+Instance: e20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=8435.999999998094, Time=4.515s [2025-09-19 04:11:02]
+
+Instance: e20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=8438.999999999965, Time=100.095s [2025-09-19 04:12:42]
+
+Instance: e20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=8500.999999999998, Time=100.845s [2025-09-19 04:14:24]
+
+Instance: e20100.dat (2000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=10387.0, Time=100.537s [2025-09-19 04:16:05]
+
+Instance: a20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=2339.0, Time=0.152s [2025-09-19 04:16:06]
+
+Instance: a20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=2339.0, Time=0.215s [2025-09-19 04:16:06]
+
+Instance: a20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=2339.0, Time=0.186s [2025-09-19 04:16:07]
+
+Instance: a20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=2339.0, Time=0.372s [2025-09-19 04:16:08]
+
+Instance: a20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=2339.0, Time=0.333s [2025-09-19 04:16:09]
+
+Instance: a20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=solved, Obj=2339.0, Time=0.453s [2025-09-19 04:16:10]
+
+Instance: b20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=2339.0, Time=0.390s [2025-09-19 04:16:11]
+
+Instance: b20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=2339.0, Time=0.543s [2025-09-19 04:16:12]
+
+Instance: b20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=2339.0, Time=0.589s [2025-09-19 04:16:13]
+
+Instance: b20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=2339.0, Time=2.998s [2025-09-19 04:16:17]
+
+Instance: b20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=2339.0, Time=3.227s [2025-09-19 04:16:20]
+
+Instance: b20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=TIMEOUT, Obj=None, Time=102.123s [2025-09-19 04:18:02]
+
+Instance: c20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=2391.0, Time=3.014s [2025-09-19 04:18:06]
+
+Instance: c20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=2391.0, Time=1.650s [2025-09-19 04:18:08]
+
+Instance: c20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=2391.0000000000146, Time=4.509s [2025-09-19 04:18:13]
+
+Instance: c20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=2391.000000000004, Time=48.120s [2025-09-19 04:19:02]
+
+Instance: c20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=2391.0, Time=34.071s [2025-09-19 04:19:37]
+
+Instance: c20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=2408.0, Time=100.455s [2025-09-19 04:21:17]
+
+Instance: d20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=limit, Obj=12278.0, Time=100.124s [2025-09-19 04:22:58]
+
+Instance: d20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=limit, Obj=12275.0, Time=100.907s [2025-09-19 04:24:40]
+
+Instance: d20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=limit, Obj=12307.0, Time=100.299s [2025-09-19 04:26:20]
+
+Instance: d20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=12335.0, Time=100.097s [2025-09-19 04:28:01]
+
+Instance: d20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=12361.0, Time=100.888s [2025-09-19 04:29:43]
+
+Instance: d20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=12803.0, Time=100.498s [2025-09-19 04:31:24]
+
+Instance: e20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=22379.0, Time=8.101s [2025-09-19 04:31:32]
+
+Instance: e20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=22380.0, Time=6.748s [2025-09-19 04:31:40]
+
+Instance: e20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=22378.999999997308, Time=7.860s [2025-09-19 04:31:48]
+
+Instance: e20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=22379.999999998778, Time=58.153s [2025-09-19 04:32:47]
+
+Instance: e20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=solved, Obj=22379.000000000007, Time=82.569s [2025-09-19 04:34:10]
+
+Instance: e20200.dat (4000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=30161.0, Time=100.522s [2025-09-19 04:35:51]
+
+Instance: c20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=4782.0, Time=11.014s [2025-09-19 04:36:02]
+
+Instance: c20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=4782.0, Time=14.718s [2025-09-19 04:36:18]
+
+Instance: c20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=4782.000000000001, Time=48.411s [2025-09-19 04:37:07]
+
+Instance: c20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=TIMEOUT, Obj=4781.999999999999, Time=100.000s [2025-09-19 04:38:48]
+
+Instance: c20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=4786.0, Time=100.172s [2025-09-19 04:40:29]
+
+Instance: c20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=4876.0, Time=100.413s [2025-09-19 04:42:10]
+
+Instance: d20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=limit, Obj=24615.0, Time=100.889s [2025-09-19 04:43:51]
+
+Instance: d20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=limit, Obj=24596.999999999967, Time=100.165s [2025-09-19 04:45:32]
+
+Instance: d20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=limit, Obj=24641.0, Time=100.192s [2025-09-19 04:47:13]
+
+Instance: d20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=limit, Obj=24664.0, Time=100.866s [2025-09-19 04:48:54]
+
+Instance: d20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=24736.0, Time=100.195s [2025-09-19 04:50:35]
+
+Instance: d20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=25189.0, Time=100.470s [2025-09-19 04:52:16]
+
+Instance: e20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: gurobi
+  Run 1: Status=solved, Obj=44880.0, Time=9.365s [2025-09-19 04:52:26]
+
+Instance: e20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: cplex
+  Run 1: Status=solved, Obj=44879.00000000007, Time=5.652s [2025-09-19 04:52:32]
+
+Instance: e20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: xpress
+  Run 1: Status=solved, Obj=44877.99999999996, Time=5.833s [2025-09-19 04:52:39]
+
+Instance: e20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: highs
+  Run 1: Status=solved, Obj=44877.00000000015, Time=46.627s [2025-09-19 04:53:26]
+
+Instance: e20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: scip
+  Run 1: Status=limit, Obj=45546.0, Time=100.190s [2025-09-19 04:55:07]
+
+Instance: e20400.dat (8000 tasks)
+--------------------------------------------------
+
+Solver: cbc
+  Run 1: Status=limit, Obj=46834.0, Time=100.381s [2025-09-19 04:56:47]

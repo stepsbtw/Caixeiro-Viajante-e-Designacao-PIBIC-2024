@@ -1,0 +1,121 @@
+[
+  {
+    "instance": "burma14.dat",
+    "cost": 4217.0,
+    "runtime": 0.002422332763671875,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "ulysses16.dat",
+    "cost": 9675.0,
+    "runtime": 0.0025997161865234375,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "gr17.dat",
+    "cost": 2199.0,
+    "runtime": 0.002753019332885742,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "gr21.dat",
+    "cost": 3098.0,
+    "runtime": 0.002859354019165039,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "ulysses22.dat",
+    "cost": 8133.0,
+    "runtime": 0.0030863285064697266,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "gr24.dat",
+    "cost": 1553.0,
+    "runtime": 0.0028569698333740234,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "fri26.dat",
+    "cost": 1050.0,
+    "runtime": 0.0030879974365234375,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "bayg29.dat",
+    "cost": 2005.0,
+    "runtime": 0.0032634735107421875,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "bays29.dat",
+    "cost": 2288.0,
+    "runtime": 0.0031156539916992188,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "swiss42.dat",
+    "cost": 1601.0,
+    "runtime": 0.0040132999420166016,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "gr48.dat",
+    "cost": 6098.0,
+    "runtime": 0.0048198699951171875,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "hk48.dat",
+    "cost": 13181.0,
+    "runtime": 0.005964040756225586,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "eil51.dat",
+    "cost": 534.0,
+    "runtime": 0.0052411556243896484,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "berlin52.dat",
+    "cost": 8980.0,
+    "runtime": 0.005461215972900391,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "eil76.dat",
+    "cost": 706.0,
+    "runtime": 0.008117198944091797,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "rat99.dat",
+    "cost": 1539.0,
+    "runtime": 0.011553049087524414,
+    "method": "ortools_none",
+    "improvements": 0
+  },
+  {
+    "instance": "rd100.dat",
+    "cost": 10216.0,
+    "runtime": 0.012921810150146484,
+    "method": "ortools_none",
+    "improvements": 0
+  }
+]

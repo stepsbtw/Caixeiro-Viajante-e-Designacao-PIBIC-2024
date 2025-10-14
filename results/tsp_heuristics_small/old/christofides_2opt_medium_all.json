@@ -1,0 +1,352 @@
+[
+  {
+    "instance": "a280.dat",
+    "cost": 2683.0,
+    "runtime": 1.4881610870361328,
+    "method": "christofides_2opt",
+    "improvements": 45
+  },
+  {
+    "instance": "ali535.dat",
+    "cost": 213980.0,
+    "runtime": 12.163719177246094,
+    "method": "christofides_2opt",
+    "improvements": 113
+  },
+  {
+    "instance": "att532.dat",
+    "cost": 29156.0,
+    "runtime": 14.360313653945923,
+    "method": "christofides_2opt",
+    "improvements": 131
+  },
+  {
+    "instance": "bier127.dat",
+    "cost": 126659.0,
+    "runtime": 0.1779632568359375,
+    "method": "christofides_2opt",
+    "improvements": 30
+  },
+  {
+    "instance": "brg180.dat",
+    "cost": 2100.0,
+    "runtime": 0.10735201835632324,
+    "method": "christofides_2opt",
+    "improvements": 32
+  },
+  {
+    "instance": "ch130.dat",
+    "cost": 6399.0,
+    "runtime": 0.22728657722473145,
+    "method": "christofides_2opt",
+    "improvements": 33
+  },
+  {
+    "instance": "ch150.dat",
+    "cost": 6754.0,
+    "runtime": 0.18537092208862305,
+    "method": "christofides_2opt",
+    "improvements": 24
+  },
+  {
+    "instance": "d198.dat",
+    "cost": 16521.0,
+    "runtime": 0.4686143398284912,
+    "method": "christofides_2opt",
+    "improvements": 35
+  },
+  {
+    "instance": "d493.dat",
+    "cost": 36239.0,
+    "runtime": 11.315876245498657,
+    "method": "christofides_2opt",
+    "improvements": 100
+  },
+  {
+    "instance": "d657.dat",
+    "cost": 51766.0,
+    "runtime": 22.98244047164917,
+    "method": "christofides_2opt",
+    "improvements": 117
+  },
+  {
+    "instance": "dsj1000.dat",
+    "cost": 19662724.0,
+    "runtime": 91.2856376171112,
+    "method": "christofides_2opt",
+    "improvements": 203
+  },
+  {
+    "instance": "eil101.dat",
+    "cost": 670.0,
+    "runtime": 0.06570744514465332,
+    "method": "christofides_2opt",
+    "improvements": 15
+  },
+  {
+    "instance": "fl417.dat",
+    "cost": 12294.0,
+    "runtime": 5.328980445861816,
+    "method": "christofides_2opt",
+    "improvements": 66
+  },
+  {
+    "instance": "gil262.dat",
+    "cost": 2464.0,
+    "runtime": 1.4398775100708008,
+    "method": "christofides_2opt",
+    "improvements": 62
+  },
+  {
+    "instance": "gr120.dat",
+    "cost": 7167.0,
+    "runtime": 0.16035866737365723,
+    "method": "christofides_2opt",
+    "improvements": 35
+  },
+  {
+    "instance": "gr137.dat",
+    "cost": 74521.0,
+    "runtime": 0.07941603660583496,
+    "method": "christofides_2opt",
+    "improvements": 14
+  },
+  {
+    "instance": "gr202.dat",
+    "cost": 41598.0,
+    "runtime": 0.5040996074676514,
+    "method": "christofides_2opt",
+    "improvements": 38
+  },
+  {
+    "instance": "gr229.dat",
+    "cost": 140036.0,
+    "runtime": 1.0089290142059326,
+    "method": "christofides_2opt",
+    "improvements": 56
+  },
+  {
+    "instance": "gr431.dat",
+    "cost": 178961.0,
+    "runtime": 5.726726055145264,
+    "method": "christofides_2opt",
+    "improvements": 88
+  },
+  {
+    "instance": "gr666.dat",
+    "cost": 306203.0,
+    "runtime": 25.284942150115967,
+    "method": "christofides_2opt",
+    "improvements": 142
+  },
+  {
+    "instance": "kroA150.dat",
+    "cost": 27000.0,
+    "runtime": 0.35732364654541016,
+    "method": "christofides_2opt",
+    "improvements": 39
+  },
+  {
+    "instance": "kroA200.dat",
+    "cost": 31001.0,
+    "runtime": 0.6431641578674316,
+    "method": "christofides_2opt",
+    "improvements": 40
+  },
+  {
+    "instance": "kroB150.dat",
+    "cost": 27404.0,
+    "runtime": 0.36234140396118164,
+    "method": "christofides_2opt",
+    "improvements": 43
+  },
+  {
+    "instance": "kroB200.dat",
+    "cost": 30339.0,
+    "runtime": 0.48166584968566895,
+    "method": "christofides_2opt",
+    "improvements": 37
+  },
+  {
+    "instance": "lin105.dat",
+    "cost": 15591.0,
+    "runtime": 0.056932687759399414,
+    "method": "christofides_2opt",
+    "improvements": 16
+  },
+  {
+    "instance": "lin318.dat",
+    "cost": 45077.0,
+    "runtime": 2.2926840782165527,
+    "method": "christofides_2opt",
+    "improvements": 56
+  },
+  {
+    "instance": "linhp318.dat",
+    "cost": 45077.0,
+    "runtime": 2.191485643386841,
+    "method": "christofides_2opt",
+    "improvements": 56
+  },
+  {
+    "instance": "p654.dat",
+    "cost": 36498.0,
+    "runtime": 15.606796026229858,
+    "method": "christofides_2opt",
+    "improvements": 90
+  },
+  {
+    "instance": "pa561.dat",
+    "cost": 2967.0,
+    "runtime": 8.31944465637207,
+    "method": "christofides_2opt",
+    "improvements": 72
+  },
+  {
+    "instance": "pcb442.dat",
+    "cost": 52170.0,
+    "runtime": 2.967355728149414,
+    "method": "christofides_2opt",
+    "improvements": 36
+  },
+  {
+    "instance": "pr107.dat",
+    "cost": 45344.0,
+    "runtime": 0.12613701820373535,
+    "method": "christofides_2opt",
+    "improvements": 27
+  },
+  {
+    "instance": "pr124.dat",
+    "cost": 59830.0,
+    "runtime": 0.12685084342956543,
+    "method": "christofides_2opt",
+    "improvements": 19
+  },
+  {
+    "instance": "pr136.dat",
+    "cost": 100295.0,
+    "runtime": 0.12816405296325684,
+    "method": "christofides_2opt",
+    "improvements": 16
+  },
+  {
+    "instance": "pr144.dat",
+    "cost": 59488.0,
+    "runtime": 0.24447011947631836,
+    "method": "christofides_2opt",
+    "improvements": 28
+  },
+  {
+    "instance": "pr152.dat",
+    "cost": 75200.0,
+    "runtime": 0.11852407455444336,
+    "method": "christofides_2opt",
+    "improvements": 18
+  },
+  {
+    "instance": "pr226.dat",
+    "cost": 83073.0,
+    "runtime": 0.8099212646484375,
+    "method": "christofides_2opt",
+    "improvements": 44
+  },
+  {
+    "instance": "pr264.dat",
+    "cost": 51404.0,
+    "runtime": 0.6980462074279785,
+    "method": "christofides_2opt",
+    "improvements": 28
+  },
+  {
+    "instance": "pr299.dat",
+    "cost": 50151.0,
+    "runtime": 2.2237837314605713,
+    "method": "christofides_2opt",
+    "improvements": 61
+  },
+  {
+    "instance": "pr439.dat",
+    "cost": 111730.0,
+    "runtime": 6.234728574752808,
+    "method": "christofides_2opt",
+    "improvements": 81
+  },
+  {
+    "instance": "rat195.dat",
+    "cost": 2448.0,
+    "runtime": 0.3162097930908203,
+    "method": "christofides_2opt",
+    "improvements": 29
+  },
+  {
+    "instance": "rat575.dat",
+    "cost": 7250.0,
+    "runtime": 10.285898208618164,
+    "method": "christofides_2opt",
+    "improvements": 94
+  },
+  {
+    "instance": "rat783.dat",
+    "cost": 9285.0,
+    "runtime": 36.48141431808472,
+    "method": "christofides_2opt",
+    "improvements": 144
+  },
+  {
+    "instance": "rd400.dat",
+    "cost": 16035.0,
+    "runtime": 5.264687538146973,
+    "method": "christofides_2opt",
+    "improvements": 81
+  },
+  {
+    "instance": "si175.dat",
+    "cost": 21630.0,
+    "runtime": 0.3763608932495117,
+    "method": "christofides_2opt",
+    "improvements": 38
+  },
+  {
+    "instance": "si535.dat",
+    "cost": 48913.0,
+    "runtime": 19.675585985183716,
+    "method": "christofides_2opt",
+    "improvements": 143
+  },
+  {
+    "instance": "ts225.dat",
+    "cost": 129007.0,
+    "runtime": 0.3398871421813965,
+    "method": "christofides_2opt",
+    "improvements": 18
+  },
+  {
+    "instance": "tsp225.dat",
+    "cost": 4093.0,
+    "runtime": 0.7378928661346436,
+    "method": "christofides_2opt",
+    "improvements": 36
+  },
+  {
+    "instance": "u159.dat",
+    "cost": 44480.0,
+    "runtime": 0.11436200141906738,
+    "method": "christofides_2opt",
+    "improvements": 17
+  },
+  {
+    "instance": "u574.dat",
+    "cost": 38813.0,
+    "runtime": 12.853831052780151,
+    "method": "christofides_2opt",
+    "improvements": 98
+  },
+  {
+    "instance": "u724.dat",
+    "cost": 44332.0,
+    "runtime": 23.34669852256775,
+    "method": "christofides_2opt",
+    "improvements": 142
+  }
+]
