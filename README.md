@@ -2,7 +2,7 @@
 
 Codes utilized for solving Traveling Salesman Problem (TSP), Asymmetric TSP (ATSP), Assignment Problem, and Generalized Assignment Problem (GAP) using multiple solvers and heuristics.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 src/
@@ -12,7 +12,7 @@ src/
 └── parsers/              # Instance converters
 ```
 
-## 🎯 Problem Types
+## Problem Types
 
 ### 1. **TSP (Traveling Salesman Problem)**
 Find the shortest route visiting all cities exactly once.
@@ -26,9 +26,9 @@ Optimal assignment of workers to tasks minimizing total cost.
 ### 4. **GAP (Generalized Assignment Problem)**
 Assignment with capacity constraints on workers.
 
-## 🚀 Main Components
+## Main Components
 
-### TSP SCRIPTS/
+### tsp/
 
 #### Core Solvers:
 - **`TSP_AMPL_SOLVERS.py`** - AMPL-based exact solvers (CPLEX, Gurobi, HiGHS, CBC)
@@ -46,7 +46,7 @@ Assignment with capacity constraints on workers.
 - **`tsp_to_dat_converter.py`** - Convert TSPLIB to AMPL .dat format
 - **`atsp_to_dat_converter.py`** - Convert ATSP instances to AMPL format
 
-### ASSIGNMENT SCRIPTS/
+### assign/
 
 #### Core Solvers:
 - **`GAP_AMPL_SOLVERS.py`** - AMPL-based exact GAP solvers
@@ -57,6 +57,7 @@ Assignment with capacity constraints on workers.
 #### Analysis Tools:
 - **`analyze_gap_results.py`** - Statistical analysis of GAP solver results
 - **`benchmark_gap_heuristics.py`** - Heuristic comparison framework
+- **`analyze_tsp_results.py`** - TSP results analysis
 
 #### Utilities:
 - **`gap_to_dat_converter.py`** - Convert GAP instances to AMPL format
@@ -64,11 +65,7 @@ Assignment with capacity constraints on workers.
 - **`gap_others_parser.py`** - Parse alternative GAP formats
 - **`assignment_sparse_parser.py`** - Parse sparse assignment matrices
 
-### Root Analysis Scripts:
-
-- **`analyze_tsp_results.py`** - TSP results analysis (standalone)
-
-## 🔧 Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 ```bash
@@ -92,7 +89,7 @@ pip install -r requirements.txt  # Create this file
 export AMPL_PATH=/path/to/ampl
 ```
 
-## 📊 Usage Examples
+## Usage Examples
 
 ### TSP Benchmarking
 
@@ -159,7 +156,7 @@ cd "ASSIGNMENT SCRIPTS"
 python ASSIGNMENT_AMPL_SOLVERS.py
 ```
 
-## 📂 Data Format
+## Data Format
 
 ### TSP Instance (.dat format):
 ```ampl
@@ -184,7 +181,7 @@ w21 w22 ... w2n
 b1 b2 ... bm
 ```
 
-## 📈 Output Files
+## Output Files
 
 ### Results Directory Structure:
 ```
@@ -233,7 +230,7 @@ results/
 - **Exact**: Hungarian Algorithm, MIP formulation
 - **Heuristics**: Greedy assignment
 
-## 🧪 Testing and Validation
+## Testing and Validation
 
 ### Run Test Suite:
 ```bash
@@ -241,7 +238,7 @@ results/
 # Main validation is through benchmark scripts
 ```
 
-## 📝 Configuration
+## Configuration
 
 ### AMPL Solver Configuration:
 Edit in respective `*_AMPL_SOLVERS.py` files:
@@ -259,7 +256,7 @@ TIME_LIMIT = 100  # seconds per run
 RUNS = 5         # seeds per method per instance
 ```
 
-## 📊 Analysis
+## Analysis
 
 ### Generated Reports:
 - Performance rankings by solver/method
@@ -267,38 +264,13 @@ RUNS = 5         # seeds per method per instance
 - Runtime statistics (mean, median, std)
 - Gap distributions and boxplots
 
-## 🗂️ Instance Sources
+## Instance Sources
 
 ### TSPLIB:
 Standard TSP benchmark instances from [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 
 ### OR-Library:
 GAP and Assignment instances from [Beasley's OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html)
-
-## 🔄 Workflow
-
-### Typical Research Workflow:
-
-1. **Convert Instances**: 
-   ```bash
-   python tsp_to_dat_converter.py
-   python gap_to_dat_converter.py
-   ```
-
-2. **Run Benchmarks**:
-   ```bash
-   python TSP_AMPL_SOLVERS.py      # Exact solvers
-   python tsp_heuristic.py --all   # Heuristics
-   ```
-
-3. **Analyze Results**:
-   ```bash
-   python analyze_tsp_benchmark.py results.json
-   ```
-
-4. **Generate Reports**:
-   - Statistical comparison tables
-   - Summary CSV files
 
 ## 📚 References
 
