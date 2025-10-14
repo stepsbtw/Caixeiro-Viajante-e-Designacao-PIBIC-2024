@@ -272,7 +272,6 @@ Standard TSP benchmark instances from [TSPLIB](http://comopt.ifi.uni-heidelberg.
 ### OR-Library:
 GAP and Assignment instances from [Beasley's OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html)
 
-## Dependencies:
-- [OR-Tools](https://developers.google.com/optimization) - Google's optimization toolkit
-- [AMPL](https://ampl.com/) - Mathematical programming language
-- [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) - TSP instances
+## External dependencies:
+- [OR-Tools](https://developers.google.com/optimization) - Google's optimization toolkit for some heuristics.
+- [AMPL](https://ampl.com/) - Mathematical programming language with Student License for the Solvers.
